@@ -283,8 +283,6 @@ word_list = [
 'zombie', 
 ]                                                                    
 
-#final code below
-
 import random
 from hangman_art import stages, logo
 from hangman_words import word_list
